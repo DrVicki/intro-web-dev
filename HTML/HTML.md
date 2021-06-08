@@ -19,9 +19,17 @@ To create this button, you will write the following code in an HTML file.
 <button>Hi! I'm a button with text</button>
 ```
 
-```
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="300"
+      height="200"
+      src="https://stackblitz.com/edit/intro-to-web-button?embed=1&file=index.html">
+  </iframe>
+</div>
+
 <iframe src="https://stackblitz.com/edit/intro-to-web-button?embed=1&file=index.html" style="border:0px #ffffff none;" name="button" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
-```
+
 
 Did you notice a construction with angle brackets (< >)? These brackets are referred to as **HTML tags**, used to describe **elements** on a website. For example; buttons are created with a pair of ```<button></button>``` tags:
 
