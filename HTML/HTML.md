@@ -8,6 +8,15 @@ The HTML file is a text file with the ```.html``` extension. The files contain c
 
 Join me working through a real-world example.
 
-This is what a button looks like with text:
+This is a **button** with text:
 
-![]()
+![](https://github.com/DrVicki/intro-web-dev/blob/master/HTML/images/button-with-text.png)
+
+Ready to write code to create a button? Let's do it!
+To create this button, write the following code in an HTML file:
+
+```
+<button>Hi! I'm a button with text</button>
+```
+
+Did you notice a construction with angle brackets (< >)? These brackets are referred to as **HTML tags**, used to describe **elements** on a website. For example; buttons are created with a pair of ```<button></button>``` tags:
