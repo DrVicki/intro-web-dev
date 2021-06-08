@@ -21,6 +21,7 @@ To create this button, write the following code in an HTML file:
 
 Did you notice a construction with angle brackets (< >)? These brackets are referred to as **HTML tags**, used to describe **elements** on a website. For example; buttons are created with a pair of ```<button></button>``` tags:
 
-
+Most tags come in pairs. The opening <button> tag tells the browser where the element begins. While the closing </button> tag specifies where it ends. Text between the <button> and </button> tags will be displayed on the button itself.
+- This text can vary. For example, we can write "Send" or "Sign up" and then place this button wherever it's needed. We can also make a "Let's go!" button and place it right here:
 
 
