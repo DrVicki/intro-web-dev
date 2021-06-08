@@ -10,7 +10,7 @@ Join me working through a real-world example.
 
 This is a **button** with text:
 
-![](https://github.com/DrVicki/intro-web-dev/blob/master/HTML/images/blue-text-button.jpg)
+![](https://github.com/DrVicki/intro-web-dev/blob/master/HTML/images/blue-button-with-text.gif)
 
 Ready to write code to create a button? Let's do it!
 To create this button, write the following code in an HTML file:
